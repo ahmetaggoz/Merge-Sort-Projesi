@@ -27,7 +27,7 @@ Big-O gösterimini yazınız.
 ```
 # Big-O Gösterimi
 
-````
+```
 [16,21,11]  
 
 [16] [21,11]
